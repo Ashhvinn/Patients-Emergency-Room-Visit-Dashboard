@@ -204,6 +204,12 @@ Unspecified Gender Visit =
 - Use conditional formatting and tooltips to enhance the dashboard's usability.
 - Ensure the layout is intuitive and visually appealing.
 
+## Snaps of Dashboard
+![Screenshot 2024-09-15 214244](https://github.com/user-attachments/assets/47281c58-ccd5-4022-8062-91b743150a3c)
+![Screenshot 2024-09-15 214315](https://github.com/user-attachments/assets/ec009524-de5a-4b99-96b9-186522b7ee5f)
+![Screenshot 2024-09-15 214403](https://github.com/user-attachments/assets/8d06e882-ff27-4a49-8b00-3523a5fb3ff5)
+
+
 ## Conclusion
 
 The **Patients Emergency Room Visit Dashboard** provides a comprehensive analysis of patient visits to the emergency room, offering valuable insights into various aspects of emergency healthcare. By following the steps outlined above, users can effectively visualize and analyze data related to patient waiting times, visit trends, departmental referrals, and patient satisfaction.
